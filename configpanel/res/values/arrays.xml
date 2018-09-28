@@ -17,14 +17,12 @@
 <resources>
 
     <string-array name="notification_slider_action_entries" translatable="false">
-        <item>@string/notification_slider_mode_total_silence</item>
-        <item>@string/notification_slider_mode_alarms_only</item>
-        <item>@string/notification_slider_mode_priority_only</item>
+        <item>@string/notification_slider_mode_zen</item>
+        <item>@string/notification_slider_mode_vibrate</item>
         <item>@string/notification_slider_mode_none</item>
     </string-array>
 
     <string-array name="notification_slider_action_entry_values" translatable="false">
-        <item>600</item>
         <item>601</item>
         <item>602</item>
         <item>603</item>
